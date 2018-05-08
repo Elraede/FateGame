@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: bfc2f423774131f4c97ec185bf01e660
+timeCreated: 1514391077
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharaGraph_0
+    21300002: CharaGraph_1
+    21300004: CharaGraph_2
+    21300006: CharaGraph_3
+    21300008: CharaGraph_4
+    21300010: CharaGraph_5
+    21300012: CharaGraph_6
+    21300014: CharaGraph_7
+    21300016: CharaGraph_8
+    21300018: CharaGraph_9
+    21300020: CharaGraph_10
+    21300022: CharaGraph_11
+    21300024: CharaGraph_12
+    21300026: CharaGraph_13
+    21300028: CharaGraph_14
+    21300030: CharaGraph_15
+    21300032: CharaGraph_16
+    21300034: CharaGraph_17
+    21300036: CharaGraph_18
+    21300038: CharaGraph_19
+    21300040: CharaGraph_20
+    21300042: CharaGraph_21
+    21300044: CharaGraph_22
+    21300046: CharaGraph_23
+    21300048: CharaGraph_24
+    21300050: CharaGraph_25
+    21300052: CharaGraph_26
+    21300054: CharaGraph_27
+    21300056: CharaGraph_28
+    21300058: CharaGraph_29
+    21300060: CharaGraph_30
+    21300062: CharaGraph_31
+    21300064: CharaGraph_32
+    21300066: CharaGraph_33
+    21300068: CharaGraph_34
+    21300070: CharaGraph_35
+    21300072: CharaGraph_36
+    21300074: CharaGraph_37
+    21300076: CharaGraph_38
+    21300078: CharaGraph_39
+    21300080: CharaGraph_40
+    21300082: CharaGraph_41
+    21300084: CharaGraph_42
+    21300086: CharaGraph_43
+    21300088: CharaGraph_44
+    21300090: CharaGraph_45
+    21300092: CharaGraph_46
+    21300094: CharaGraph_47
+    21300096: CharaGraph_48
+    21300098: CharaGraph_49
+    21300100: CharaGraph_50
+    21300102: CharaGraph_51
+    21300104: CharaGraph_52
+    21300106: CharaGraph_53
+    21300108: CharaGraph_54
+    21300110: CharaGraph_55
+    21300112: CharaGraph_56
+    21300114: CharaGraph_57
+    21300116: CharaGraph_58
+    21300118: CharaGraph_59
+    21300120: CharaGraph_60
+    21300122: CharaGraph_61
+    21300124: CharaGraph_62
+    21300126: CharaGraph_63
+    21300128: CharaGraph_64
+    21300130: CharaGraph_65
+    21300132: CharaGraph_66
+    21300134: CharaGraph_67
+    21300136: CharaGraph_68
+    21300138: CharaGraph_69
+    21300140: CharaGraph_70
+    21300142: CharaGraph_71
+    21300144: CharaGraph_72
+    21300146: CharaGraph_73
+    21300148: CharaGraph_74
+    21300150: CharaGraph_75
+    21300152: CharaGraph_76
+    21300154: CharaGraph_77
+    21300156: CharaGraph_78
+    21300158: CharaGraph_79
+    21300160: CharaGraph_80
+    21300162: CharaGraph_81
+    21300164: CharaGraph_82
+    21300166: CharaGraph_83
+    21300168: CharaGraph_84
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharaGraph_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1173
+        width: 10
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1171
+        width: 10
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1171
+        width: 12
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1171
+        width: 12
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2002
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2000
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2002
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1799
+        width: 497
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1799
+        width: 497
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_9
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2000
+        width: 147
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_10
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2000
+        width: 147
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_11
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1971
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1934
+        width: 101
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1935
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1935
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_15
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1944
+        width: 147
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1944
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_17
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1882
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1864
+        width: 136
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1873
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1866
+        width: 165
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_21
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1888
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_22
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1888
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1838
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1808
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1838
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1810
+        width: 165
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_27
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1832
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_28
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1807
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_29
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1801
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_30
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1805
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1812
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_32
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1812
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_33
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1746
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_34
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1747
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1752
+        width: 147
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1760
+        width: 123
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1782
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1644
+        width: 248
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1644
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_40
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1644
+        width: 245
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_41
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1644
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_42
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1717
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_43
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1720
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1770
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_45
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1724
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1667
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1665
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1670
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1679
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1674
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_51
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1663
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_52
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1670
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_53
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1642
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_54
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1634
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_55
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1635
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1581
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1588
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1593
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1591
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1490
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_62
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1490
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_63
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1488
+        width: 514
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_64
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1574
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_65
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1583
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_66
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1549
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_67
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1553
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_68
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1549
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1506
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1507
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_71
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1500
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_72
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1496
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_73
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1334
+        width: 514
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_74
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1334
+        width: 514
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1180
+        width: 514
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 10
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 10
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 292
+        width: 10
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 292
+        width: 10
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1088
+        width: 514
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 978
+        width: 514
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 874
+        width: 514
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 769
+        width: 514
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharaGraph_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 497
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

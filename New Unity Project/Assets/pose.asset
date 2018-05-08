@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: pose
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: BonesSkeletton/Hips
+    localPosition: {x: 0.04, y: 0.86, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.6917651, w: -0.7221226}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine
+    localPosition: {x: 0.7000003, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.11713237, w: 0.9931163}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck
+    localPosition: {x: 0.8599998, y: 0.000001411885, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.13475297, w: 0.99087924}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head
+    localPosition: {x: 0.40000126, y: -0.0000013718382, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.88893944, w: 0.45802483}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightBack1
+    localPosition: {x: 0.31, y: -0.58, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.49980003, w: 0.86614084}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightBack1/HairRightBAck1_0
+    localPosition: {x: 0.40000084, y: 0.0000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.042821728, w: 0.9990828}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightBack1/HairRightBAck1_0/HairRightBack1_1
+    localPosition: {x: 0.22999987, y: 0.00000086426735, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.025269695, w: 0.9996807}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightBack1/HairRightBAck1_0/HairRightBack1_1/HairRightBack3
+    localPosition: {x: -0.0020733327, y: 0.08780174, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.011238249, w: 0.9999369}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightBack1/HairRightBAck1_0/HairRightBack2
+    localPosition: {x: 0.013134444, y: -0.03541992, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.29434812, w: 0.95569825}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1
+    localPosition: {x: 0.36901286, y: -0.6412742, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.40486583, w: 0.91437614}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightFront1_0
+    localPosition: {x: 0.15999858, y: -0.0000000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.15793057, w: 0.9874503}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightFront1_0/HairRightFront1_1
+    localPosition: {x: 0.13000025, y: -0.000000317581, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.077047676, w: 0.99702746}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightFront1_0/HairRightFront1_1/HairRightFront1_2
+    localPosition: {x: 0.120001726, y: 8.1490725e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.038883355, w: 0.9992438}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightFront1_0/HairRightFront1_1/HairRightFrontAnnexe1
+    localPosition: {x: -0.00032454357, y: -0.03721105, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.12143791, w: 0.99259907}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightFront1_0/HairRightFront1_1/HairRightFrontAnnexe1/HairRightFrontAnnexe1_0
+    localPosition: {x: 0.049999367, y: 0.0000007986964, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.07319595, w: 0.9973176}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairRightFront1/HairRightAnnexe2
+    localPosition: {x: 0.15136959, y: -0.048348412, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.37069935, w: 0.9287529}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle1
+    localPosition: {x: 0.2337102, y: -0.6613934, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6810995, w: 0.73219097}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle1/HairMiddle1_0
+    localPosition: {x: 0.1999994, y: -0.0000011771917, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.124802, w: 0.9921817}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle1/HairMiddle1_0/HairMiddle1_0Annexe
+    localPosition: {x: 0.023695175, y: -0.062096674, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.114573516, w: 0.9934148}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle2_0
+    localPosition: {x: 0.15586734, y: -0.50294185, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.79254496, w: 0.6098135}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle2_0/HairMiddle2_1
+    localPosition: {x: 0.10999991, y: -0.00000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.038267627, w: 0.9992676}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle2_0/HairMiddle2_1/HairMiddle2_2
+    localPosition: {x: 0.1000014, y: 0.000000562266, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.037319936, w: 0.9993034}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle2_0/HairMiddle2_1/HairMiddle2_3
+    localPosition: {x: 0.09530604, y: 0.09106233, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.058143795, w: 0.99830824}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle2_0/HairMiddle2_1/HairMiddle2_3/HairMiddle2_4
+    localPosition: {x: 0.13000028, y: -0.0000007748604, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.050711256, w: 0.9987134}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle3_0
+    localPosition: {x: -0.07235923, y: -0.30004287, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.73011494, w: 0.6833244}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle3_0/HairMiddle3_1
+    localPosition: {x: 0.14999954, y: -0.00000074505806, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.04267037, w: 0.99908924}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle3_0/HairMiddle3_2
+    localPosition: {x: 0.112978876, y: 0.07359074, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.26462355, w: 0.96435183}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle3_0/HairMiddle3_2/HairMiddle3_3
+    localPosition: {x: 0.089998804, y: -0.0000011473894, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0048867967, w: 0.99998814}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairMiddle3_0/HairMiddle3_2/HairMiddle3_3/HairMiddle3_4
+    localPosition: {x: 0.08000083, y: -0.0000011279044, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.029886648, w: 0.9995533}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairLeftFront_0
+    localPosition: {x: -0.044574905, y: -0.06437391, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.49098855, w: 0.871166}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairLeftFront_0/HairLeftFront_1
+    localPosition: {x: 0.19999999, y: -0.0000006556511, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.11867265, w: 0.99293345}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairLeftFront_0/HairLeftFront_1/HairLeftFront_4
+    localPosition: {x: 0.2000002, y: 0.0000004679896, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.115716614, w: 0.99328226}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairLeftFront_0/HairLeftFront_2
+    localPosition: {x: -0.01093835, y: -0.08956857, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.08931854, w: 0.99600315}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/HairLeftFront_0/HairLeftFront_3
+    localPosition: {x: 0.0019038692, y: 0.07454535, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.12249293, w: 0.99246943}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0
+    localPosition: {x: -0.92345417, y: -0.13536239, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7535035, w: 0.65744394}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail0_0
+    localPosition: {x: 0.25000113, y: 0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.11780797, w: 0.9930364}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail0_0/PonyTail0_1
+    localPosition: {x: 0.2200005, y: -0.00000026963244, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.15334538, w: 0.9881727}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail0_0/PonyTail0_1/PonyTail0_2
+    localPosition: {x: 0.16000167, y: 0.00000019278377, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.17670311, w: 0.9842642}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail1
+    localPosition: {x: 0.02392865, y: -0.1958468, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.23773679, w: 0.9713297}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail1/PonyTail1_0
+    localPosition: {x: 0.10999969, y: 0.0000008121133, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.029269524, w: 0.99957156}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail2
+    localPosition: {x: 0.15424953, y: 0.08043179, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.04375923, w: 0.99904215}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail2/PonyTail2_0
+    localPosition: {x: 0.25999984, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.15472701, w: 0.9879573}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail3
+    localPosition: {x: 0.031528886, y: 0.14741698, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.1203286, w: 0.99273413}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail3/PonyTail3_0
+    localPosition: {x: 0.13324414, y: -0.0000000019208528, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.012256333, w: 0.99992496}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTail0/PonyTail3/PonyTail3_0/PonyTail3_1
+    localPosition: {x: 0.17276613, y: 5.529728e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.054301847, w: 0.9985246}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber0
+    localPosition: {x: -0.7931378, y: -0.51799726, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.97184926, w: -0.23560357}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber0/PonyTailAntichamber0_0
+    localPosition: {x: 0.1500011, y: -0.00000087171793, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.06487219, w: 0.99789363}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber0/PonyTailAntichamber0_0/PonyTailAntichamber0_1
+    localPosition: {x: 0.12000081, y: -0.000000067360816, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.20525585, w: 0.9787084}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber0/PonyTailAntichamber0_0/PonyTailAntichamber0_1/PonyTailAntichamber0_2
+    localPosition: {x: 0.0899988, y: -0.00000003259629, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.12088838, w: 0.9926662}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber1
+    localPosition: {x: -0.7822741, y: -0.6172168, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.9966585, w: -0.08168191}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber1/PonyTailAntichamber1_0
+    localPosition: {x: 0.12999979, y: 0.0000002533195, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.05685346, w: 0.99838257}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber1/PonyTailAntichamber1_0/PonyTailAntichamber1_1
+    localPosition: {x: 0.089999385, y: -0.0000012055025, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.21342666, w: 0.9769591}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber2
+    localPosition: {x: -0.7546266, y: -0.66133344, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.97788346, w: 0.2091506}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber2/PonyTailAntichamber2_0
+    localPosition: {x: 0.20000057, y: 0.00000089406944, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.25329927, w: 0.967388}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber3
+    localPosition: {x: -0.67917216, y: -0.67742026, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.93192405, w: 0.3626536}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber3/PonyTailAntichamber3_0
+    localPosition: {x: 0.15999953, y: -0.000001832843, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.18871337, w: 0.98203224}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber4
+    localPosition: {x: -0.60262245, y: -0.66166735, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.61325204, w: 0.7898873}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber5
+    localPosition: {x: -0.7367313, y: -0.46212316, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.8563357, w: -0.5164197}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/Neck/Head/PonyTailAntichamber5/PonyTailAntichamber5_0
+    localPosition: {x: 0.15000126, y: 0.0000004023314, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.30042043, w: 0.95380694}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/RightArms
+    localPosition: {x: 0.63, y: 0.32, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9741337, w: 0.22597274}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/RightArms/RightArmsFrony
+    localPosition: {x: 0.7700007, y: 0.00000047683716, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.74899995, w: 0.6625701}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/RightArms/RightArmsFrony/Hand
+    localPosition: {x: 0.6000016, y: 0.000001013279, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.1899069, w: -0.98180217}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/LeftArms
+    localPosition: {x: 0.86, y: -0.33, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.8932239, w: 0.44961217}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/LeftArms/LeftArmsFront
+    localPosition: {x: 0.90999925, y: -0.0000019073486, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7228634, w: 0.69099104}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/Spine/LeftArms/LeftArmsFront/LeftHand
+    localPosition: {x: 0.69999874, y: 0.00000035762787, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.33041432, w: 0.94383603}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/RightLeg
+    localPosition: {x: -0.16592303, y: 0.24545366, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9998196, w: -0.01899838}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/RightLeg/RightLegFront
+    localPosition: {x: 1.4409288, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.052375887, w: 0.9986275}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/RightLeg/RightLegFront/RightFeet
+    localPosition: {x: 1.3300005, y: 0.0000000033905962, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.2550571, w: 0.96692604}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/LeftLeg
+    localPosition: {x: -0.15, y: -0.31, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99439496, w: -0.10572947}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/LeftLeg/LeftLegFront
+    localPosition: {x: 1.21, y: -0.0000006556511, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.08695038, w: -0.99621266}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/LeftLeg/LeftLegFront/LeftFeet
+    localPosition: {x: 1.733517, y: -0.00000001094304, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.44234055, w: 0.8968472}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/FrontCape1
+    localPosition: {x: -0.18083537, y: 0.081404835, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9996818, w: 0.025228623}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/FrontCape1/FrontCape2
+    localPosition: {x: 0.7300008, y: 0.00000031292439, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.012287522, w: 0.99992454}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/FrontCape1/FrontCape2/FrontCape3
+    localPosition: {x: 0.40000135, y: 0.0000017359853, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.017977031, w: 0.9998384}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/BackCape
+    localPosition: {x: -0.14, y: -0.81, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9623367, w: 0.27186042}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BonesSkeletton/Hips/BackCape/BackCape2
+    localPosition: {x: 0.5600011, y: 0.0000013709068, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.1529007, w: 0.9882416}
+    localScale: {x: 1, y: 1, z: 1}
